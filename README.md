@@ -5,7 +5,7 @@
 </div>
 
 ![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
-
+![inpreview](https://bloxxness.space)
 > [!IMPORTANT]
 > If you fork this project, consider giving it a star in the original repository!
 
